@@ -1,4 +1,5 @@
 # testing-microservices
 
 Cadastro de nome, endereço etc.
-Using verbs GET, POST, PUT and DELETE.
+
+Usando verbos http: REST GET, POST, PUT and DELETE.
