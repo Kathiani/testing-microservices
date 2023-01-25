@@ -1,7 +1,7 @@
 # testing-microservices
 
 
-01-Registration of person: name, address, etc.
+01-Registration of name, address, etc.
 
 Using http verbs: GET, POST, PUT and DELETE.
 
