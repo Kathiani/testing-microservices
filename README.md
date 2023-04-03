@@ -1,3 +1,4 @@
+theme: minima
 # testing-microservices
 
 
